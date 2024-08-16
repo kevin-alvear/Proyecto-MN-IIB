@@ -95,4 +95,4 @@ Este proyecto es de ámbito académico, así que está bajo la Licencia Libre.
 👤 [Luis Morocho](https://github.com/Luiss-Morocho)   
 👤 [Andrés Pérez](https://github.com/AndresPerez01)
 
-URL del Proyecto: [https://github.com/tu-usuario/simulador-dinamica-poblacional](https://github.com/tu-usuario/simulador-dinamica-poblacional)
+URL del Proyecto: [https://github.com/kevin-alvear/Proyecto-MN-IIB](https://github.com/kevin-alvear/Proyecto-MN-IIB)
