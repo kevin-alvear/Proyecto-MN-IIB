@@ -76,7 +76,7 @@ El comportamiento de la población varía según el valor de la constante de fer
 ## 💻 Uso
 
 Ejecuta el script principal:
-python main.py
+[main.py](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/Codigo/main.py)
 
 Utiliza los controles deslizantes para ajustar la tasa de fertilidad ($f$) y la población inicial ($P_0$). Luego, haz clic en los botones para iniciar la animación o generar el diagrama de bifurcación.
 
