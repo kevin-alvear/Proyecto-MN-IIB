@@ -85,7 +85,7 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 
 Este proyecto es de ámbito académico, así que está bajo la Licencia Libre.
 
-## 📞 Participantes
+## 👥 Participantes
 
 👤 [Erick Carcelen](https://twitter.com/tu_twitter)  
 👤 [Kevin Alvear](https://github.com/kevin-alvear)    
