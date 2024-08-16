@@ -61,8 +61,9 @@ El comportamiento de la población varía según el valor de la constante de fer
    - cd simulador-dinamica-poblacional
 
 3. Instala las dependencias:
-   - pip install numpy
-   - pip install matplotlib
+   ```bash
+   pip install numpy
+   pip install matplotlib
 
 ## 💻 Uso
 
