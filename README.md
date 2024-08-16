@@ -55,7 +55,7 @@ El comportamiento de la población varía según el valor de la constante de fer
 ## 🚀 Instalación
 
 1. Clona este repositorio:
- - git clone https://github.com/kevin-alvear/Proyecto-MN-IIB.git
+ - https://github.com/kevin-alvear/Proyecto-MN-IIB
 
 2. Navega al directorio del proyecto:
   - cd simulador-dinamica-poblacional
