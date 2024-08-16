@@ -55,14 +55,14 @@ El comportamiento de la población varía según el valor de la constante de fer
 ## 🚀 Instalación
 
 1. Clona este repositorio:
- - https://github.com/kevin-alvear/Proyecto-MN-IIB
+   - https://github.com/kevin-alvear/Proyecto-MN-IIB
 
 2. Navega al directorio del proyecto:
-  - cd simulador-dinamica-poblacional
+   - cd simulador-dinamica-poblacional
 
 3. Instala las dependencias:
- - pip install numpy
- - pip install matplotlib
+   - pip install numpy
+   - pip install matplotlib
 
 ## 💻 Uso
 
@@ -81,9 +81,9 @@ Este proyecto es de ámbito académico, así que está bajo la Licencia Libre.
 
 ## 📞 Participantes
 
-[Erick Carcelen] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com  
-[Kevin Alvear] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com  
-[Luis Morocho] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com  
-[Andrés Pérez] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com
+👤 [Erick Carcelen] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com  
+👤 [Kevin Alvear](https://github.com/kevin-alvear)
+👤 [Luis Morocho] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com  
+👤 [Andrés Pérez] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com
 
 URL del Proyecto: [https://github.com/tu-usuario/simulador-dinamica-poblacional](https://github.com/tu-usuario/simulador-dinamica-poblacional)
