@@ -55,7 +55,8 @@ El comportamiento de la población varía según el valor de la constante de fer
 ## 🚀 Instalación
 
 1. Clona este repositorio:
-   - https://github.com/kevin-alvear/Proyecto-MN-IIB
+   ```bash
+   git clone https://github.com/kevin-alvear/Proyecto-MN-IIB,git
 
 2. Navega al directorio del proyecto:
    - cd simulador-dinamica-poblacional
@@ -63,6 +64,7 @@ El comportamiento de la población varía según el valor de la constante de fer
 3. Instala las dependencias:
    ```bash
    pip install numpy
+   ```bash
    pip install matplotlib
 
 ## 💻 Uso
