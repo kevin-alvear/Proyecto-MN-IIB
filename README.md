@@ -60,7 +60,7 @@ El comportamiento de la población varía según el valor de la constante de fer
 
 2. Navega al directorio del proyecto:
    - [Codigo](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/Codigo/main.py)
-   - [video](https://github.com/kevin-alvear/Proyecto-MN-IIB/tree/main/Video)
+   - [Video](https://github.com/kevin-alvear/Proyecto-MN-IIB/tree/main/Video)
    - [Informe](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/Informe/Informe.pdf)
    - [Presentación](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/Presentacion/PRESENTACION.md)
 
