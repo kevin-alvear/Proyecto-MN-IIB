@@ -87,9 +87,9 @@ Este proyecto es de ámbito académico, así que está bajo la Licencia Libre.
 
 ## 👥 Participantes
 
-👤 [Erick Carcelen](https://twitter.com/tu_twitter)  
+👤 [Erick Carcelen](https://github.com/ErickC162)  
 👤 [Kevin Alvear](https://github.com/kevin-alvear)    
-👤 [Luis Morocho](https://twitter.com/tu_twitter)   
-👤 [Andrés Pérez](https://twitter.com/tu_twitter)
+👤 [Luis Morocho](https://github.com/Luiss-Morocho)   
+👤 [Andrés Pérez](https://github.com/AndresPerez01)
 
 URL del Proyecto: [https://github.com/tu-usuario/simulador-dinamica-poblacional](https://github.com/tu-usuario/simulador-dinamica-poblacional)
