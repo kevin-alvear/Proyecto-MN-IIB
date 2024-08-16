@@ -77,7 +77,7 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+Este proyecto es de ámbito académico, así que está bajo la Licencia Libre.
 
 ## 📞 Contacto
 
