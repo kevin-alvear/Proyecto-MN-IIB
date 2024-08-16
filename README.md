@@ -1,4 +1,4 @@
-# 🔬 Simulador de Dinámica Poblacional: Modelo Logístico
+# 🔬 Simulador de Dinámica Poblacional
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![tkinter](https://img.shields.io/badge/tkinter-included-green.svg)](https://docs.python.org/3/library/tkinter.html)
