@@ -63,4 +63,24 @@ El comportamiento de la población varía según el valor de la constante de fer
 3. Instala las dependencias:
  - pip install numpy
  - pip install matplotlib
-5. 
+
+## 💻 Uso
+
+Ejecuta el script principal:
+python main.py
+
+Utiliza los controles deslizantes para ajustar la tasa de fertilidad ($f$) y la población inicial ($P_0$). Luego, haz clic en los botones para iniciar la animación o generar el diagrama de bifurcación.
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambios mayores antes de hacer un pull request.
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+
+## 📞 Contacto
+
+[Tu Nombre] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com
+
+URL del Proyecto: [https://github.com/tu-usuario/simulador-dinamica-poblacional](https://github.com/tu-usuario/simulador-dinamica-poblacional)
