@@ -59,7 +59,10 @@ El comportamiento de la población varía según el valor de la constante de fer
    git clone https://github.com/kevin-alvear/Proyecto-MN-IIB.git
 
 2. Navega al directorio del proyecto:
-   - [Directorio](cd simulador-dinamica-poblacional)
+   - [Codigo](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/Codigo/main.py)
+   - [video](https://github.com/kevin-alvear/Proyecto-MN-IIB/tree/main/Video)
+   - [Informe](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/Informe/Informe.pdf)
+   - [Presentación](https://github.com/kevin-alvear/Proyecto-MN-IIB/tree/main/Presentacion)
 
 3. Instala las dependencias:  
    Antes de ejecutar el programa, asegúrate de tener instaladas las siguientes dependencias:
