@@ -79,8 +79,11 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 
 Este proyecto es de ámbito académico, así que está bajo la Licencia Libre.
 
-## 📞 Contacto
+## 📞 Participantes
 
-[Tu Nombre] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com
+[Erick Carcelen] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com
+[Kevin Alvear] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com
+[Luis Morocho] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com
+[Andrés Pérez] - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com
 
 URL del Proyecto: [https://github.com/tu-usuario/simulador-dinamica-poblacional](https://github.com/tu-usuario/simulador-dinamica-poblacional)
