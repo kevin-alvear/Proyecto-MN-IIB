@@ -20,14 +20,14 @@ Donde:
 El comportamiento de la población varía según el valor de la constante de fertilidad $f$:
 
 - Para $0 \le f \le 1$: La población eventualmente muere (0 bifurcaciones).
-- Para $1 < f < 2$: La población se estabiliza (1 bifurcación).
+- Para $1 < f < 3$: La población se estabiliza (1 bifurcación).
 - Para ciertos valores de $f$: La población oscila entre dos valores (2 bifurcaciones).
 - Para otros valores de $f$: Se observan comportamientos más complejos y múltiples bifurcaciones.
 
 ## 🎯 Objetivos del Proyecto
 
 1. Investigar sobre puntos fijos e iteración funcional.
-2. Determinar la expresión matemática del valor de convergencia para $1 \le f \le 2$.
+2. Determinar la expresión matemática del valor de convergencia para $1 \le f \le 3$.
 3. Calcular el número de bifurcaciones para todos los valores de $f \ge 0$.
 4. Analizar el comportamiento de la población para diversos valores de $f$ y $P_0$.
 5. Implementar un programa en Python que:
