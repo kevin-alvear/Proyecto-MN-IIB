@@ -59,7 +59,7 @@ El comportamiento de la población varía según el valor de la constante de fer
    git clone https://github.com/kevin-alvear/Proyecto-MN-IIB.git
 
 2. Navega al directorio del proyecto:
-   - [Codigo](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/Codigo/main.py)
+   - [Codigo](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/main.py)
    - [Video](https://github.com/kevin-alvear/Proyecto-MN-IIB/tree/main/Video)
    - [Informe](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/Informe/Informe.pdf)
    - [Presentación](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/Presentacion/PRESENTACION.md)
@@ -76,7 +76,7 @@ El comportamiento de la población varía según el valor de la constante de fer
 ## 💻 Uso
 
 Ejecuta el script principal:
-[main.py](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/Codigo/main.py)
+[main.py](https://github.com/kevin-alvear/Proyecto-MN-IIB/blob/main/main.py)
 
 Utiliza los controles deslizantes para ajustar la tasa de fertilidad ($f$) y la población inicial ($P_0$). Luego, haz clic en los botones para iniciar la animación o generar el diagrama de bifurcación.
 
